@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Meu Repositório de Estudos - Git e Github
 
 ## Objetivo da Aula:
@@ -15,13 +13,3 @@
 5. Realizar um Pull Request e Merge; [ ]
 
 6. Criar o nosso primeiro Fork; [ ]
-=======
-# formacao_github_certification
-
-Repositório de aula para certificação github - DIO.
->>>>>>> 27f1e38a813a5d584583dd445cfd64f13c5fcb21
-=======
-# formacao_github_certification
-
-Repositório de aula para certificação github - DIO.
->>>>>>> 27f1e38a813a5d584583dd445cfd64f13c5fcb21
